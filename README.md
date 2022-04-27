@@ -19,3 +19,6 @@ Like the same thought in 1D signal
 Simplify the dimension and discard the iteration matrix dimension
 
 But there are some varieties for multiple-dimension array usage in nD situation 
+
+
+The modified python file is "simpify_1D_signal.py" and "simpify_nD_signal.py"
