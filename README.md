@@ -21,4 +21,11 @@ Simplify the dimension and discard the iteration matrix dimension
 But there are some varieties for multiple-dimension array usage in nD situation 
 
 
-The modified python file is "simpify_1D_signal.py" and "simpify_nD_signal.py"
+The modified python file is "vmd_for_sim_1D_signal.py" and "vmd_for_sim_nD_signal.py"
+
+
+Considering the demand of GPU compute
+
+torch repalced numpy in the new python files
+
+"vmd_for_1D_signal_torch.py" and "vmd_for_1D_signal_torch.py" are ready
